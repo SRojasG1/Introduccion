@@ -64,3 +64,21 @@
       margin: auto;
    
 }
+
+.text12 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1000px;
+    font-size: 18px;
+    text-align: justify;
+    font-family: Arial, sans-serif;
+    width: 90%;
+    margin: auto;
+    padding: 10%;
+
+}
+
+.text12 p {
+    margin-bottom: 20px; /* Puedes ajustar el valor según tus necesidades */
+}
